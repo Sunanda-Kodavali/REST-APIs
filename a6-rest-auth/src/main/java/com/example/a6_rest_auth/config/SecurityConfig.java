@@ -2,7 +2,6 @@ package com.example.a6_rest_auth.config;
 
 import com.example.a6_rest_auth.filters.JwtFilter;
 import com.example.a6_rest_auth.services.UserService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
